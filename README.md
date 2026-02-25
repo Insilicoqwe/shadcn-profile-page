@@ -1,16 +1,3 @@
 Chadcn profile page | Next.js + Tailwind + Lucid
 
-Profile header
-<img width="1905" height="221" alt="image" src="https://github.com/user-attachments/assets/708b3014-0a0f-4fab-bbc9-31ea2b653ad4" />
-
-Stats
-<img width="1904" height="190" alt="image" src="https://github.com/user-attachments/assets/94853484-8980-46a3-84f3-71b7c64c2f9a" />
-
-About
-<img width="1902" height="524" alt="image" src="https://github.com/user-attachments/assets/4f59f896-e21b-431f-8578-7d0264a1e278" />
-
-Tabs
-<img width="1904" height="731" alt="image" src="https://github.com/user-attachments/assets/32dd0b75-4aa0-432c-a635-6ffe3b678ed6" />
-
-Footer
-<img width="1903" height="84" alt="image" src="https://github.com/user-attachments/assets/ae5119dd-4f29-41fa-a8a7-2babb0ad2d33" />
+<img width="1920" height="1766" alt="screencapture-localhost-3000-2026-02-25-10_23_01" src="https://github.com/user-attachments/assets/be90f57e-99fa-481c-8a29-3b764d7dd59c" />
